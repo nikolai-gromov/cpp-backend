@@ -72,7 +72,7 @@ If you encounter errors while executing these commands, install Docker manually.
 
 ```bash
 git clone git@github.com:nikolai-gromov/cpp-backend.git
-cd cpp-backend/backend
+cd cpp-backend/backend/
 ```
 
 ### 4. Build the Project with CMake
